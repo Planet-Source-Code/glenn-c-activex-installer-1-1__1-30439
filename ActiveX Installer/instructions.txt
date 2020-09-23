@@ -1,0 +1,62 @@
+ActiveX Installer 1.1 Instructions
+-----------------------------------
+
+This program will create a simple installation for
+components which are always installed into the Windows
+System/System32 folder.  This setup can also register
+the components as well as display a license agreement.
+
+
+Project Tab
+-----------------------------------
+
+Product Name (required):  
+	This is the name of your component.
+
+Install Message:  
+	This message will be displayed when the
+	installation if first launched.  If this field is 
+	blank a default message will be created.
+
+	The message should be something like:
+	"This will install MyOCX.  Do you want to
+	continue?"
+
+License Agreement:  
+	This should point to a text file containing 
+	the license agreement for your product.
+
+EXE Filename (required):  
+	This is the EXE file that will be created.
+
+
+Files Tab
+-----------------------------------
+This tab is used to select the components that will be 
+installed.  You must have at least one file in this list.
+
+Add button:  
+	Adds a file or files to the list.
+
+Remove button:  
+	Removes the selected item(s) from the list.
+
+Clear button:  
+	Removes all of the items from the list.
+
+Regsvr32 checkbox:  
+	Lets you set the "Register" value for the 
+	selected item(s) in the list.  If checked, 
+	regsvr32 will be called to register the 
+	component(s) when installed.
+
+
+
+Shortcut Keys
+--------------------------------------
+Start a new project	CTRL+N
+Open a project		CTRL+O
+Save the project		CTRL+S
+Compile the EXE		F4
+Test the EXE		F7
+Quit the program		CTRL+Q
