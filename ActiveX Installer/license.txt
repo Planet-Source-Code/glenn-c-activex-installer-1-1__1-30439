@@ -1,0 +1,31 @@
+SOFTWARE LICENSE AGREEMENT
+
+*** Please read this entire agreement ***
+
+LICENSE:
+* This Limited Use Software License Agreement (the "Agreement") is a legal agreement between you ("Licensee"), the end-user, and Glenn Chittenden Jr. ("GCJR") for the use of the ActiveX Installer product ("Software").  
+By using this software or storing this program on a computer hard drive (or other media), you are agreeing to be bound by the terms of this Agreement.  
+If you do not agree to the terms of this Agreement you must delete the software from all storage media. 
+
+* This software may be distributed freely on online services, bulletin boards, or other electronic media as long as the files are distributed in their entirety.  This software may not be distributed on CD-ROM, disk, or other physical media for a fee without the permission of GCJR.
+
+* You may not alter this software in any way, including changing or removing any messages or windows.  
+
+* You may not decompile, reverse engineer, disassemble or otherwise reduce this software to a human perceivable form.  You may not modify, rent or resell for profit this software, or create derivative works based upon this software.  
+You may not publicize or distribute any registration code algorithms, information, or registration codes used by this software without permission of GCJR.
+
+
+* You may not use any registration codes for the Software that have not been purchased from GCJR or an authorized representative of GCJR.
+
+* You accept responsibility for any network usage costs or any other costs incurred by using this software.
+
+-----------------------------------------
+NO WARRANTIES.  - GCJR EXPRESSLY DISCLAIMS ANY WARRANTY for the SOFTWARE. The SOFTWARE and any related documentation is provided "as is" without warranty of any kind, either express or implied, including, without limitation, the implied warranties or merchantability, fitness for a particular purpose, or noninfringement. 
+The entire risk arising out of use or performance of the SOFTWARE remains with you.
+
+THIS SOFTWARE IS NOT FAULT TOLERANT AND SHOULD NOT BE USED IN ANY ENVIRONMENT WHICH REQUIRES THIS.
+
+NO LIABILITY FOR DAMAGES. In no event shall GCJR or its suppliers be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or any other pecuniary loss) arising out of the use of or inability to use this SOFTWARE, EVEN IF GCJR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. 
+
+COPYRIGHT:
+* ActiveX Installer is Copyright Glenn Chittenden Jr.  You must treat the Software like any other copyrighted material.
